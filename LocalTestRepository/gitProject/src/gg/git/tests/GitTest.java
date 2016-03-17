@@ -1,5 +1,10 @@
 package gg.git.tests;
 
+/**
+ * 
+ * @author ggepnj
+ *
+ */
 public class GitTest {
 	public static void main(String[] args) {
 		String s1 = "abc";
